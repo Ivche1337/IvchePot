@@ -12,6 +12,11 @@ Running
 -------
 
 	python -m ivchepot
+	
+	
+PyPI Package
+------------
+https://pypi.org/project/ivchepot/
 
 Source code
 -----------
