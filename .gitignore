@@ -1,0 +1,5 @@
+ivchepot.ini
+ivchepot.log
+*egg-info
+dist/
+__pycache__
