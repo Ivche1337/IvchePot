@@ -1,7 +1,7 @@
-Ivchepot Quickstart
+IvchePot Quickstart
 ===================
 
-Ivchepot is a simple TCP honeypot written in Python 3.
+IvchePot is a simple TCP honeypot written in Python 3.
 
 Instalation
 -----------
