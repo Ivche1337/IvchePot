@@ -3,6 +3,10 @@ IvchePot Quickstart
 
 IvchePot is a simple TCP honeypot written in Python 3.
 
+.. image:: https://readthedocs.org/projects/ivchepot/badge/?version=latest
+:target: https://ivchepot.readthedocs.io/en/latest/?badge=latest
+:alt: Documentation Status
+
 Installation
 -----------
 
